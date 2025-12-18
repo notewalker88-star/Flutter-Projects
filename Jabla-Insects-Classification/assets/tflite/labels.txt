@@ -1,0 +1,10 @@
+0 Wasp
+1 Spider
+2 Mosquito
+3 Ladybug
+4 Grasshopper
+5 Fly
+6 Dragonfly
+7 Butterfly
+8 Beetle
+9 Bee
