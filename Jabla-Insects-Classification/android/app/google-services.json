@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565485235740",
+    "firebase_url": "https://jabla-insect-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jabla-insect",
+    "storage_bucket": "jabla-insect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565485235740:android:b01e8114f5bf2d1e49b9d9",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5IO25z018iL3Vlo7yRxy75HvfYPULAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
