@@ -38,7 +38,6 @@
    When the confidence threshold is met, the classification result is securely saved to the **Firebase Realtime Database** for future reference.
 
 ---
-![Beetle](https://github.com/user-attachments/assets/9cabe9c9-d670-4f7a-b980-c1f87dbde61c)
 
 ## 🧰 Tech Stack
 
